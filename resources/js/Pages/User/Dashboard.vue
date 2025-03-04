@@ -138,7 +138,7 @@ import { Head } from "@inertiajs/vue3";
 .picture {
   margin-top: 20px;
   margin-bottom: 1px;
-  background-image: url('@/assets/homepictures.png');
+  background-image: url("/assets/homepictures.png");
   background-size: cover;
   background-position: center;
   width: 320px;
